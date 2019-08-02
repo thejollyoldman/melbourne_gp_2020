@@ -7,7 +7,7 @@ The race itself is on 15 March, with the F1 race weekend starting on Friday 13 M
 |**Date**|13 Mar|14 Mar|15 Mar|
 |:-:|:-:|:-:|:-:|
 |**Day**|Fri|Sat|Sun|
-|**Session Times**|FP1 (12-1:30), FP2 (4-5:30)|FP3 (2-3), Qualifying (5-6)|Race (4-6)|
+|**Session Times**|FP1 (12pm-1:30pm), FP2 (4pm-5:30pm)|FP3 (2pm-3pm), Qualifying (5pm-6pm)|Race (4pm-6pm)|
 |**Events**|Fly into Melbourne|FP3/Quali + Dinner|Lunch, Race and then fly out|
 
 ## Events outside of F1
