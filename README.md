@@ -18,34 +18,28 @@ Total cost of weekend for flights/hotel/pass is 171 + 209 + 330 + 250 = **$960**
 
 ## Flights
 
-**Flight to Melbourne:** Jetstar - JQ523
-
-**Departs:** Friday 13 March 2020, 6:45pm, Sydney - Domestic Terminal T2
-
-**Arrives:** Friday 13 March 2020, 8:20pm, Melbourne (Tullamarine) - Domestic Terminal T4
-
-**Cost:** $171 (as at 2 August 2019)
+Flight to Melbourne: Jetstar - JQ523  
+Departs: Friday 13 March 2020, 6:45pm, Sydney - Domestic Terminal T2  
+Arrives: Friday 13 March 2020, 8:20pm, Melbourne (Tullamarine) - Domestic Terminal T4  
+Cost: **$171** (as at 2 August 2019)  
 
 
-**Flight back to Sydney:** Jetstar - JQ524
-
-**Departs:** Sunday 15 March 2020, 8:55pm, Melbourne (Tullamarine) - Domestic Terminal T4
-
-**Arrives:** Sunday 15 March 2020, 10:20pm, Sydney - Domestic Terminal T2
-
-**Cost:** $209 (as at 2 August 2019)
+Flight back to Sydney: Jetstar - JQ524  
+Departs: Sunday 15 March 2020, 8:55pm, Melbourne (Tullamarine) - Domestic Terminal T4  
+Arrives: Sunday 15 March 2020, 10:20pm, Sydney - Domestic Terminal T2  
+Cost: **$209** (as at 2 August 2019)  
 
 ## Hotel
 2 small double beds per room on trip.com(we will have to twin share) at Crown Plaza for the two nights is $330 per room per night (as at 2 August 2019).
 
-**Total cost per person for weekend:** $330
+Total cost per person for weekend: **$330**
 
 https://www.ihg.com/crowneplaza/hotels/us/en/melbourne/melfs/hoteldetail?cm_mmc=GoogleMaps-_-CP-_-AU-_-MELFS
 
 ## F1 Tickets
 Not out yet, Ahmad is on notification list for Park Pass/General Admission which will be roughly $200 for weekend. You can also buy a grandstand seat if you want for $300.
 
-**Cost for weekend:** $200-$300. Average it to $250.
+Cost for weekend: $200-$300. Average it to **$250**
 
 ## Transport to and from Albert Park
 We can catch trams with a Myki (Melbourne version of Opal) to Albert park from corner Spencer St and Collins St about 5 minute walk from Crown Plaza and an 11 minute tram ride.
