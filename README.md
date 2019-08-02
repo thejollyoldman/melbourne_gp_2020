@@ -41,4 +41,4 @@ Not out yet, Ahmad is on notification list for Park Pass/General Admission which
 **Cost for weekend:** $200-$300. Average it to $250.
 
 ## Transport to and from Albert Park
-We can catch trams with a Myki (Melbourne version of Opal) to Albert park from corner Spencer St and Collins St about 5 minute walk from Crown Plaza.
+We can catch trams with a Myki (Melbourne version of Opal) to Albert park from corner Spencer St and Collins St about 5 minute walk from Crown Plaza and an 11 minute tram ride.
