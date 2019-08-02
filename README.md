@@ -19,13 +19,20 @@ Total cost of weekend for flights/hotel/pass is 171 + 209 + 330 + 250 = **$960**
 ## Flights
 
 **Flight to Melbourne:** Jetstar - JQ523
+
 **Departs:** Friday 13 March 2020, 6:45pm, Sydney - Domestic Terminal T2
+
 **Arrives:** Friday 13 March 2020, 8:20pm, Melbourne (Tullamarine) - Domestic Terminal T4
+
 **Cost:** $171 (as at 2 August 2019)
 
+
 **Flight back to Sydney:** Jetstar - JQ524
+
 **Departs:** Sunday 15 March 2020, 8:55pm, Melbourne (Tullamarine) - Domestic Terminal T4
+
 **Arrives:** Sunday 15 March 2020, 10:20pm, Sydney - Domestic Terminal T2
+
 **Cost:** $209 (as at 2 August 2019)
 
 ## Hotel
